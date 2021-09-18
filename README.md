@@ -5,9 +5,11 @@
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
-## :warning: Abandoned project
+## :warning: Unabandoned project
 
-This project is not maintained anymore and is abandoned. Feel free to fork and make your own changes if needed.
+I forked this project in the hopes to keep it going.  I'm not a master of Javascript in particular, not ECMAScript.  Doing my best, PRs welcome.
+
+~This project is not maintained anymore and is abandoned. Feel free to fork and make your own changes if needed.~
 
 Thanks to everyone for their valuable feedback and contributions.
 
