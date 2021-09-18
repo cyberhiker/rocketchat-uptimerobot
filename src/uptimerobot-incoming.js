@@ -11,7 +11,7 @@
 /* globals console, _, s */
 
 const USERNAME = 'Uptime Robot';
-const AVATAR_URL = 'https://raw.githubusercontent.com/crazy-max/rocketchat-uptimerobot/master/res/avatar.png';
+const AVATAR_URL = 'https://raw.githubusercontent.com/cyberhiker/rocketchat-uptimerobot/master/res/avatar.png';
 
 const convertAlertDuration = (seconds) => {
   let days = Math.floor(seconds / (3600 * 24));
